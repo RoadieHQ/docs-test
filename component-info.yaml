@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: docs-test
+  description: docs-test
+  annotations:
+    github.com/project-slug: RoadieHQ/docs-test
+    backstage.io/techdocs-ref: github:https://github.com/RoadieHQ/docs-test
+spec:
+  type: documentation
+  lifecycle: experimental
+  owner: iain@roadie.io
