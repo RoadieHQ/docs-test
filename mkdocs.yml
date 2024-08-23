@@ -3,6 +3,7 @@ site_description: docs-test
 
 nav: 
   - Introduction: index.md
+  - Mermaid Diagram test: mermaid.md
 
 plugins:
   - techdocs-core
