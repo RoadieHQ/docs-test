@@ -5,7 +5,7 @@ metadata:
   description: docs-test
   annotations:
     github.com/project-slug: RoadieHQ/docs-test
-    backstage.io/techdocs-ref: ./
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: documentation
   lifecycle: experimental
